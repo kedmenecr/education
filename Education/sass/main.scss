@@ -1,0 +1,20 @@
+$test:#d3d3d3;
+$white:white;
+$black:black;
+$font-main:20px;
+html{
+font-size: $font-main;
+margin-left: 100px;
+}
+.ul_list{
+    background-color:$white;
+    font-weight: 100;
+    color: $black
+
+}
+.layout{
+    background-color: $test;
+}
+.pattern{
+    font-weight: 500;
+}
