@@ -22,7 +22,7 @@
 
         &::after {
             transform: scaleX(1.4) scaleY(1.6);
-            opacity: 0;
+            opacity: my-calculation-function(10, 10);
         }
     }
     
